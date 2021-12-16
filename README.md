@@ -10,7 +10,7 @@ pip2 install mechanize
 
 pip2 install requests
 
-git clone https://github.com/lingard-king-06/fastcrack.git
+git clone https://github.com/lingard121/fastcrack.git
 
 cd fastcrack
 
